@@ -19,26 +19,3 @@ Multi-cursor up, Sublime Text 3, Ctrl+Alt+Up, Ctrl+Shift+Up, Ctrl+Alt+Up
 Multi-cursor down, Sublimte Text 3, Ctrl+Alt+Down, Ctrl+Shift+Down, Ctrl+Alt+Down
 Multi-cursor up, VS Code, Ctrl+Alt+Up, Cmd+Alt+Up, Ctrl+Alt+Up
 Multi-cursor down, VS Code, Ctrl+Alt+Down, Cmd+Alt+Down, Ctrl+Alt+Down
-
-
-# Program Group: Code Editors
-#
-# - Sublime Text 3
-# - VS Code
-# - Visual Studio
-# - Android Studio
-# - JetBrains IntelliJ IDEA
-# - JetBrains WebStorm
-# - JetBrains PhpStorm
-# - Eclipse
-# - Netbeans
-# - Notepad++
-# - TextMate
-#
-#
-# List References
-#
-# https://github.com/rbreaves/kinto/blob/master/references/app-configs/sublime-text3/
-# https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-# https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-#
