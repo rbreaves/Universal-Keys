@@ -1,0 +1,44 @@
+
+Action, AppName, Windows, macOS, Linux
+Select All, Sublime Text 3, Ctrl+A, Cmd+A, Ctrl+A
+Select All, VS Code, Ctrl+A, Cmd+A, Ctrl+A
+Select All, Visual Studio, Ctrl+A,, Ctrl+A
+Select All, Android Studio, Ctrl+A, Cmd+A, Ctrl+A
+Select All, XCode,, Cmd+A,
+Select All, Netbeans, Ctrl+A, Cmd+A, Ctrl+A
+Select All, Eclipse, Ctrl+A, Cmd+A, Ctrl+A
+Select All, Netbeans, Ctrl+A, Cmd+A, Ctrl+A
+Select All, TextMate,, Cmd+A,
+Select All, Notepad++, Ctrl+A,,
+Select All, IntelliJ, Ctrl+A, Cmd+A, Ctrl+A
+Select All, WebStorm, Ctrl+A, Cmd+A, Ctrl+A
+Select All, PhpStorm, Ctrl+A, Cmd+A, Ctrl+A
+Find All Matching, Sublime Text 3, Alt+F3, Cmd+Ctrl+G, Alt+F3
+Find All Matching, VS Code, Ctrl+Shift+L, Cmd+Shift+L, Ctrl+Shift+L
+Multi-cursor up, Sublime Text 3, Ctrl+Alt+Up, Ctrl+Shift+Up, Ctrl+Alt+Up
+Multi-cursor down, Sublimte Text 3, Ctrl+Alt+Down, Ctrl+Shift+Down, Ctrl+Alt+Down
+Multi-cursor up, VS Code, Ctrl+Alt+Up, Cmd+Alt+Up, Ctrl+Alt+Up
+Multi-cursor down, VS Code, Ctrl+Alt+Down, Cmd+Alt+Down, Ctrl+Alt+Down
+
+
+# Program Group: Code Editors
+#
+# - Sublime Text 3
+# - VS Code
+# - Visual Studio
+# - Android Studio
+# - JetBrains IntelliJ IDEA
+# - JetBrains WebStorm
+# - JetBrains PhpStorm
+# - Eclipse
+# - Netbeans
+# - Notepad++
+# - TextMate
+#
+#
+# List References
+#
+# https://github.com/rbreaves/kinto/blob/master/references/app-configs/sublime-text3/
+# https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+# https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+#
