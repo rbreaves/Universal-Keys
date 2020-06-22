@@ -1,0 +1,155 @@
+Remember these Shortcuts,,,
+Smart code completion,Ctrl+Shift+Space,Ctrl+Shift+Space,Ctrl+Shift+Space
+Search everywhere,Shift-Shift,Shift-Shift,Shift-Shift
+Show intention actions and quick-fixes, Alt+Enter,Cmd+Enter,Alt+Enter
+Generate code,Alt+Ins,Cmd+N|Ctrl+Enter,Alt+Ins
+Parameter info,Ctrl+p,Cmd+p,Ctrl+p
+Extend selection,Ctrl+w,Cmd+Alt+Up,Ctrl+w
+Shrink selection,Ctrl+Shift+w,Cmd+Alt+Down,Ctrl+Shift+w
+Recent files popup,Ctrl+e,Cmd+e,Ctrl+e
+Rename,Shift+F6,Shift+F6,Shift+F6
+General,,,
+Open corresponding tool window,Alt+[0-9],Cmd+[0-9],Alt+[0-9]
+Save all,Ctrl+s,Cmd+s,Ctrl+s
+Synchronize,Ctrl+Alt+y,Cmd+Alt+y,Ctrl+Alt+y
+Toggle maximizing editor,Ctrl+Shift+F12,Cmd+Shift+F12,Ctrl+Shift+F12
+Inspect current file with current profile,Alt+Shift+i,Alt+Shift+i,Alt+Shift+i
+Quick switch current scheme,Ctrl+Grave,Ctrl+Grave,Ctrl+Grave
+Open Settings dialog,Ctrl+Alt+s,"Cmd+,",Ctrl+Alt+s
+Open Project Structure dialog,Ctrl+Alt+shift+s,Cmd+;,Ctrl+Alt+shift+s
+Find Action,Ctrl+Shift+a,Cmd+Shift+a,Ctrl+Shift+a
+Debugging,,,
+Step over,F8,F8,F8
+Step into,F7,F7,F7
+Smart step into,Shift+F8,Shift+F8,Shift+F8
+Smart step out,Shift+F7,Shift+F7,Shift+F7
+Run to cursor,Alt+F9,Alt+F9,Alt+F9
+Evaluate expression,Alt+F8,Alt+F8,Alt+F8
+Resume program,F9,Cmd+Alt+r,F9
+Toggle breakpoint,Ctrl+F8,Cmd+F8,Ctrl+F8
+View breakpoints,Ctrl+Shift+F8,Cmd+Shift+F8,Ctrl+Shift+F8
+Search/Replace,,,
+Search everywhere,Shift-Shift,Shift-Shift,Shift-Shift
+Find,Ctrl+f,Cmd+f,Ctrl+f
+Find next,F3,Cmd+g,F3
+Find previous,Shift+F3,Cmd+Shift+F3,Shift+F3
+Replace,Ctrl+r,Cmd+r,Ctrl+r
+Find in path,Ctrl+Shift+f,Cmd+Shift+f,Ctrl+Shift+f
+Replace in path,Ctrl+Shift+r,Cmd+Shift+r,Ctrl+Shift+r
+Select next occurrence,Alt+j,ctrl+g,Alt+j
+Select all occurrences,Ctrl+Alt+Shift+j,Cmd+Ctrl+g,Ctrl+Alt+Shift+j
+Unselect occurrence,Alt+Shift+j,Ctrl+g,Alt+Shift+j
+Editing,,,
+Basic code completion,Ctrl+Space,Ctrl+Space,Ctrl+Space
+Smart code completion,Ctrl+Shift+Space,Ctrl+Shift+Space,Ctrl+Shift+Space
+Complete statement,Ctrl+Shift+Enter,Cmd+Shift+Enter,Ctrl+Shift+Enter
+Parameter info (within method call arguments),Ctrl+p,Cmd+p,Ctrl+p
+Quick documentation lookup,Ctrl+q,Ctrl+j,Ctrl+q
+External Doc,Shift+F1,Shift+F1,Shift+F1
+Brief Info,Ctrl+mouse,Cmd+mouse,Ctrl+mouse
+Show descriptions of error at caret,Ctrl+F1,Cmd+F1,Ctrl+F1
+Generate code...,Alt+Insert,Cmd+n,Alt+Insert
+Override methods,Ctrl+o,Ctrl+o,Ctrl+o
+Implement methods,Ctrl+i,Ctrl+i,Ctrl+i
+Surround with…,Ctrl+Alt+t,Cmd+Alt+t,Ctrl+Alt+t
+Comment/uncomment with line comment,Ctrl+/,Cmd+/,Ctrl+/
+Comment/uncomment with block comment,Ctrl+Shift+/,Cmd+Shift+/,Ctrl+Shift+/
+Extend selection,Ctrl+w,Alt+Up,Ctrl+w
+Shrink selection,Ctrl+Shift+w,Alt+Down,Ctrl+Shift+w
+Context info,Alt+q,Ctrl+Shift+q,Alt+q
+Show intention actions and quick-fixes,Alt+Enter,Alt+Enter,Alt+Enter
+Reformat code,Ctrl+Alt+l,Cmd+Alt+l,Ctrl+Alt+l
+Optimize imports,Ctrl+Alt+o,Ctrl+Alt+o,Ctrl+Alt+o
+Auto-indent line(s),Ctrl+Alt+i,Ctrl+Alt+i,Ctrl+Alt+i
+Indent selected lines,Tab,Tab,Tab
+Unindent selected lines,Shift+Tab,Shift+Tab,Shift+Tab
+Cut current line to clipboard,Ctrl+x|Shift+Delete,Cmd+x,Ctrl+x|Shift+Delete
+Copy current line to clipboard,Ctrl+c|Ctrl+Insert,Cmd+c,Ctrl+c|Ctrl+Insert
+Paste from clipboard,Ctrl+v|Shift+Insert,Cmd+v,Ctrl+v|Shift+Insert
+Paste from recent buffers...,Ctrl+Shift+v,Cmd+Shift+v,Ctrl+Shift+v
+Duplicate current line,Ctrl+d,Cmd+d,Ctrl+d
+Delete line at caret,Ctrl+y,Cmd+Backspace,Ctrl+y
+Smart line join,Ctrl+Shift+j,Ctrl+Shift+j,Ctrl+Shift+j
+Smart line split,Ctrl+Enter,Cmd+Enter,Ctrl+Enter
+Start new line,Shift+Enter,Shift+Enter,Shift+Enter
+Toggle case for word at caret or selected block,Ctrl+Shift+u,Cmd+Shift+u,Ctrl+Shift+u
+Select till code block end,Ctrl+Shift+],Cmd+Shift+],Ctrl+Shift+]
+Select till code block start,Ctrl+Shift+[,Cmd+Shift+[,Ctrl+Shift+[
+Delete to word end,Ctrl+Delete,Alt+Delete,Ctrl+Delete
+Delete to word start,Ctrl+Backspace,Alt+Backspace,Ctrl+Backspace
+Expand code block,Ctrl+Numpad+/,Cmd++,Ctrl+Numpad+/
+Collapse code block,Ctrl+Numpad+-,Cmd+-,Ctrl+Numpad+-
+Expand all,Ctrl+Shift+Numpad++,Cmd+Shift++,Ctrl+Shift+Numpad++
+Collapse all,Ctrl+Shift+Numpad+-,Cmd+Shift+-,Ctrl+Shift+Numpad+-
+Close active editor tab,Ctrl+F4,Cmd+w,Ctrl+F4
+Refactoring,,,
+Copy,F5,F5,F5
+Move,F6,F6,F6
+Safe Delete,Alt+Delete,Cmd+Delete,Alt+Delete
+Rename,Shift+F6,Shift+F6,Shift+F6
+Refactor this,Ctrl+Alt+Shift+T,Cmd+T,Ctrl+Alt+Shift+T
+Change Signature,Ctrl+F6,Cmd+F6,Ctrl+F6
+Inline,Ctrl+Alt+n,Cmd+Alt+n,Ctrl+Alt+n
+Extract Method,Ctrl+Alt+m,Cmd+Alt+m,Ctrl+Alt+m
+Extract Variable,Ctrl+Alt+v,Cmd+Alt+v,Ctrl+Alt+v
+Extract Field,Ctrl+Alt+f,Cmd+Alt+f,Ctrl+Alt+f
+Extract Constant,Ctrl+Alt+c,Cmd+Alt+c,Ctrl+Alt+c
+Extract Parameter,Ctrl+Alt+p,Cmd+Alt+p,Ctrl+Alt+p
+Navigation,,,
+Go to class,Ctrl+n,Cmd+o,Ctrl+n
+Go to file,Ctrl+Shift+n,Ctrl+Shift+o,Ctrl+Shift+n
+Go to symbol,Ctrl+Alt+Shift+n,Ctrl+Alt+o,Ctrl+Alt+Shift+n
+Go to next editor tab,Alt+Right,Ctrl+Right,Alt+Right
+Go to previous editor tab,Alt+Left,Ctrl+Left,Alt+Left
+Go back to previous tool window,F12,F12,F12
+Go to editor (from tool window),Esc,Esc,Esc
+Hide active or last active window,Shift+Esc,Shift+Esc,Shift+Esc
+Go to line,Ctrl+g,Ctrl+l,Ctrl+g
+Recent files popup,Ctrl+e,Ctrl+e,Ctrl+e
+Navigate back,Ctrl+Alt+Left,Cmd+Alt+Left,Ctrl+Alt+Left
+Navigate forward,Ctrl+Alt+Right,Cmd+Alt+Right,Ctrl+Alt+Right
+Navigate to last edit location,Ctrl+Shift+Backspace,Cmd+Shift+Backspace,Ctrl+Shift+Backspace
+Select current file or symbol in any view,Alt+F1,Alt+F1,Alt+F1
+Go to declaration,Ctrl+b|Ctrl+Click,Cmd+b|Cmd+Click,Ctrl+b|Ctrl+Click
+Go to implementation(s),Ctrl+Alt+b,Cmd+Alt+b,Ctrl+Alt+b
+Open quick definition lookup,Ctrl+Shift+i,Alt+Space|Cmd+Y,Ctrl+Shift+i
+Go to type declaration,Ctrl+Shift+b,Ctrl+Shift+b,Ctrl+Shift+b
+Go to super-method/super-class,Ctrl+u,Cmd+u,Ctrl+u
+Go to previous,Alt+Up,Ctrl+Up,Alt+Up
+Go to next method,Alt+Down,Ctrl+Down,Alt+Down
+Move to code block start,Ctrl+[,Cmd+[,Ctrl+[
+Move to code block end,Ctrl+],Cmd+],Ctrl+]
+File structure popup,Ctrl+F12,Cmd+F12,Ctrl+F12
+Type hierarchy,Ctrl+h,Ctrl+h,Ctrl+h
+Method hierarchy,Ctrl+Shift+h,Cmd+Shift+h,Ctrl+Shift+h
+Call hierarchy,Ctrl+Alt+h,Ctrl+Alt+h,Ctrl+Alt+h
+Next highlighted error,F2,F2,F2
+Previous highlighted error,Shift+F2,Shift+F2,Shift+F2
+Edit source/View source,F4|Ctrl+Enter,F4|Cmd+Down,F4|Ctrl+Enter
+Show navigation bar,Alt+Home,Alt+Home,Alt+Home
+Toggle bookmark,F11,F2,F11
+Toggle bookmark with mnemonic,Ctrl+F11,Ctrl+F3,Ctrl+F11
+Go to numbered bookmark,Ctrl+[0-9],Ctrl+[0-9],Ctrl+[0-9]
+Show bookmarks,Shift+F11,Cmd+F3,Shift+F11
+Compile and Run,,,
+Make project,Ctrl+F9,Cmd+F9,Ctrl+F9
+"Compile selected file, package or module",Ctrl+Shift+F9,Cmd+Shift+F9,Ctrl+Shift+F9
+Select configuration and run,Alt+Shift+F10,Ctrl+Alt+r,Alt+Shift+F10
+Select configuration and debug,Alt+Shift+F9,Ctrl+Alt+d,Alt+Shift+F9
+Run,Shift+F10,Ctrl+r,Shift+F10
+Debug,Shift+F9,Ctrl+d,Shift+F9
+Run context configuration from editor,Ctrl+Shift+F10,Ctrl+Shift+r,Ctrl+Shift+F10
+Debug context configuration from editor,Ctrl+Shift+F9,Ctrl+Shift+d,Ctrl+Shift+F9
+Usage Search,,,
+Find usages,Alt+F7,Alt+F7,Alt+F7
+Find usages in file,Ctrl+F7,Cmd+F7,Ctrl+F7
+Highlight usages in file,Ctrl+Shift+F7,Cmd+Shift+F7,Ctrl+Shift+F7
+Show usages,Ctrl+Alt+F7,Cmd+Alt+F7,Ctrl+Alt+F7
+VCS/Local History,,,
+Commit project to VCS,Ctrl+k,Cmd+k,Ctrl+k
+Update project from VCS,Ctrl+t,Cmd+t,Ctrl+t
+Push commits,Ctrl+Shift+k,Cmd+Shift+k,Ctrl+Shift+k
+VCS quick popup,Alt+Grave,Ctrl+v,Alt+Grave
+Live Templates,,,
+Surround with Live Template,Ctrl+Alt+j,Cmd+Alt+j,Ctrl+Alt+j
+Insert Live Template,Ctrl+j,Cmd+j,Ctrl+j
