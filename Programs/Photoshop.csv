@@ -1,0 +1,194 @@
+Action,Windows,macOS
+Application Menus,,
+File,,
+New,Ctrl+n,Cmd+n
+Open,Ctrl+o,Cmd+o
+Browse in Bridge,Ctrl+Alt+o|Ctrl+Shift+o,Cmd+Alt+o|Cmd+Shift+o
+Open As,Ctrl+Alt+Shift+o,Cmd+Alt+Shift+o
+Close,Ctrl+w,Cmd+w
+Close All,Ctrl+Alt+w,Cmd+Alt+w
+Close and Go to Bridge,Ctrl+Shift+w,Cmd+Shift+w
+Save,Ctrl+s,Cmd+s
+Save As,Ctrl+Shift+s|Ctrl+Alt+s,Cmd+Shift+s|Cmd+Alt+s
+Save for Web,Ctrl+Alt+Shift+s,Cmd+Alt+Shift+s
+Revert,F12,F12
+File Info,Ctrl+Alt+Shift+i,Cmd+Alt+Shift+i
+Print,Ctrl+p,Cmd+p
+Print One Copy,Ctrl+Alt+Shift+p,Cmd+Alt+Shift+p
+Exit,Ctrl+q,Cmd+q
+Edit,,
+Undo/Redo,Ctrl+z,Cmd+z|f1
+Step Forward,Ctrl+Shift+z,Cmd+Shift+z
+Step Backward,Ctrl+Alt+z,Cmd+Alt+z
+Fade,Ctrl+Shift+f,Cmd+Shift+f
+Cut,Ctrl+x|f2,Cmd+x|f2
+Copy,Ctrl+c|f3,Cmd+c|f3
+Copy Merged,Ctrl+Shift+c,Cmd+Shift+c
+Paste,Ctrl+v|f4,Cmd+v|f4
+Paste Special >,,
+  Paste in Place,Ctrl+Shift+v,Cmd+Shift+v
+  Paste into,Ctrl+Alt+Shift+v,Cmd+Alt+Shift+v
+Fill,Shift+f5,Shift+f5
+Content-Aware Scale,Ctrl+Alt+Shift+c,Cmd+Alt+Shift+c
+Free Transform,Ctrl+t,Cmd+t
+Transform Again,Ctrl+Shift+t,Cmd+Shift+t
+Color Settings,Ctrl+Shift+k,Cmd+Shift+k
+Keyboard Shortcuts,Ctrl+Alt+Shift+k,Cmd+Alt+Shift+k
+Menus,Ctrl+Alt+Shift+m,Cmd+Alt+Shift+m
+Preferences > General,Ctrl+k,Cmd+k
+Image,,
+Adjustments >,,
+  Levels,Ctrl+l,Cmd+l
+  Curves,Ctrl+m,Cmd+m
+  Hue/Saturation,Ctrl+u,Cmd+u
+  Color Balance,Ctrl+b,Cmd+b
+  Black & White,Ctrl+Alt+Shift+b,Cmd+Alt+Shift+b
+  Invert,Ctrl+i,Cmd+i
+  Desaturate,Ctrl+Shift+u,Cmd+Shift+u
+Auto Tone,Ctrl+Shift+l,Cmd+Shift+l
+Auto Contrast,Ctrl+Alt+Shift+l,Cmd+Alt+Shift+l
+Auto Color,Ctrl+Shift+b,Cmd+Shift+b
+Image Size,Ctrl+Alt+i,Cmd+Alt+i
+Canvas Size,Ctrl+Alt+c,Cmd+Alt+c
+Record Measurements,None,Shift+Cmd+m
+Layer,,
+New >,,
+  Layer,Ctrl+Shift+n,Cmd+Shift+n
+  Layer via Copy,Ctrl+j,Cmd+j
+  Layer via Cut,Ctrl+Shift+j,Cmd+Shift+j
+Create/Release Clipping Mask,Ctrl+Alt+g,Cmd+Alt+g
+Group Layers,Ctrl+g,Cmd+g
+Ungroup Layers,Ctrl+Shift+g,Cmd+Shift+g
+Arrange >,,
+  Bring to Front,Ctrl+Shift+],Cmd+Shift+]
+  Bring Forward,Ctrl+],Cmd+]
+  Send Backward,Ctrl+[,Cmd+[
+  Send to Back,Ctrl+Shift+[,Cmd+Shift+[
+Merge Layers,Ctrl+e,Cmd+e
+Merge Visible,Ctrl+Shift+e,Cmd+Shift+e
+Select,,
+All,Ctrl+a,Cmd+a
+Deselect,Ctrl+d,Cmd+d
+Reselect,Ctrl+Shift+d,Cmd+Shift+d
+Inverse,Ctrl+Shift+i|Shift+f7,Cmd+Shift+i|Shift+f7
+All Layers,Ctrl+Alt+a,Cmd+Alt+a
+Find Layers,Ctrl+Alt+Shift+f,Cmd+Alt+Shift+f
+Refine Edge,Ctrl+Alt+r,Cmd+Alt+r
+Modify Feather,Shift+f6,Shift+f6
+Filter,,
+Last Filter,Ctrl+f,Cmd+f
+Adaptive Wide Angle,Ctrl+Alt+Shift+a,Cmd+Alt+Shift+a
+Camera Raw Filter,Ctrl+Shift+a,Cmd+Shift+a
+Lens Correction,Ctrl+Shift+r,Cmd+Shift+r
+Liquify,Ctrl+Shift+x,Cmd+Shift+x
+Vanishing Point,Ctrl+Alt+v,Cmd+Alt+v
+Show/Hide Polygons >,,
+  Within Selection,Ctrl+Alt+x,Cmd+Alt+x
+  Reveal All,Ctrl+Alt+Shift+x,Cmd+Alt+Shift+x
+Render,Ctrl+Alt+Shift+r,Cmd+Alt+Shift+r
+View,,
+Proof Colors,Ctrl+y,Cmd+y
+Gamut Warning,Ctrl+Shift+y,Cmd+Shift+y
+Zoom In,Ctrl++,Cmd++
+Zoom Out,Ctrl+-,Cmd+-
+Fit on Screen,Ctrl+0,Cmd+0
+100%,Ctrl+1|Ctrl+Alt+0,Cmd+1|Cmd+Alt+0
+Extras,Ctrl+h,Cmd+h
+Show >,,
+  Target Path,Ctrl+Shift+h,Cmd+Shift+h
+  Grid,Ctrl+',Cmd+'
+  Guides,Ctrl+;,Cmd+;
+Rulers,Ctrl+r,Cmd+r
+Snap,Ctrl+Shift+;,Cmd+Shift+;
+Lock Guides,Ctrl+Alt+;,Cmd+Alt+;
+Windows,,
+Minimize,,Cmd+Ctrl+m
+Actions,Alt+f9|f9,Alt+f9|f9
+Brush,f5,f5
+Color,f6,f6
+Info,f8,f8
+Layers,f7,f7
+Help,,
+Photoshop Help,f1,Cmd+/|Cmd+Shift+/
+Panel Menus,,
+3D,,
+Render,Ctrl+Alt+Shift+r,Cmd+Alt+Shift+r
+History,,
+Step Forward,Ctrl+Shift+z,Cmd+Shift+z
+Step Backward,Ctrl+Alt+z,Cmd+Alt+z
+Layers,,
+New Layer,Ctrl+Shift+n,Cmd+Shift+n
+Create/Release Clipping Mask,Ctrl+Alt+g,Cmd+Alt+g
+Merge Layers,Ctrl+e,Cmd+e
+Merge Visible,Ctrl+Shift+e,Cmd+Shift+e
+Tools,,
+Move Tool,v,v
+Rectangular Marquee Tool,m,m
+Elliptical Marquee Tool,m,m
+Lasso Tool,l,l
+Polygonal Lasso Tool,l,l
+Magnetic Lasso Tool,l,l
+Quick Selection Tool,w,w
+Magic Wand Tool,w,w
+Eyedropper Tool,i,i
+3D Material Eyedropper Tool,i,i
+Color Sampler Tool,i,i
+Ruler Tool,i,i
+Note Tool,i,i
+Count Tool,i,i
+Crop Tool,c,c
+Perspective Crop Tool,c,c
+Slice Tool,c,c
+Slice Select Tool,c,c
+Spot Healing Brush Tool,j,j
+Healing Brush Tool,j,j
+Patch Tool,j,j
+Content-Aware Move Tool,j,j
+Red Eye Tool,j,j
+Brush Tool,b,b
+Pencil Tool,b,b
+Color Replacement Tool,b,b
+Mixer Brush Tool,b,b
+Clone Stamp Tool,s,s
+Pattern Stamp Tool,s,s
+History Brush Tool,y,y
+Art History Brush Tool,y,y
+Eraser Tool,e,e
+Background Eraser Tool,e,e
+Magic Eraser Tool,e,e
+Gradient Tool,g,g
+Paint Bucket Tool,g,g
+3D Material Drop Tool,g,g
+Dodge Tool,o,o
+Burn Tool,o,o
+Sponge Tool,o,o
+Pen Tool,p,p
+Freeform Pen Tool,p,p
+Horizontal Type Tool,t,t
+Vertical Type Tool,t,t
+Horizontal Type Mask Tool,t,t
+Vertical Type Mask Tool,t,t
+Path Selection Tool,a,a
+Direct Selection Tool,a,a
+Rectangle Tool,u,u
+Rounded Rectangle Tool,u,u
+Ellipse Tool,u,u
+Polygon Tool,u,u
+Line Tool,u,u
+Custom Shape Tool,u,u
+Hand Tool,h,h
+Rotate View Tool,r,r
+Zoom Tool,z,z
+Default Foreground/Background Colors,d,d
+Switch Foreground/Background Colors,x,x
+Toggle Standard/Quick Mask Modes,q,q
+Toggle Screen Modes,f,f
+Toggle Preserve Transparency,/,/
+Decrease Brush Size,[,[
+Increase Brush Size,],]
+Decrease Brush Hardness,{,{
+Increase Brush Hardness,},}
+Previous Brush,",",","
+Next Brush,.,.
+First Brush,<,<
+Last Brush,>,>
